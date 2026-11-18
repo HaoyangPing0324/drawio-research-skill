@@ -1,0 +1,21 @@
+{
+  "scope": "Hash freshness record, not embedded-model equivalence. First entry is the source.",
+  "files": [
+    {
+      "path": "overview.drawio",
+      "sha256": "14ce3078f7d8e3b84d3fc477825b5c11b0a924e4fe0885ea1f072d562fb687f3"
+    },
+    {
+      "path": "overview.drawio.png",
+      "sha256": "4f98bd1b0c3970865f33c38906241caddacd1417d8997d146b02ac60c36156bc"
+    },
+    {
+      "path": "overview.drawio.svg",
+      "sha256": "7b98b2e8439c21daf8b82f13c26c98586762278877af9e06dff5aa7f5c0aee54"
+    },
+    {
+      "path": "overview.pdf",
+      "sha256": "e3a2d1da556ae3b82db8322aa3c2a0bcae48fc41b7ab6882c933f9344de41373"
+    }
+  ]
+}

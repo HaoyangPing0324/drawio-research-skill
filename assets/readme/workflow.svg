@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236" role="img" aria-labelledby="title description">
+  <title id="title">A source-grounded figure workflow</title>
+  <desc id="description">Four stages: read the source, compose native Draw.io shapes, export the figure, and inspect and refine the result.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L7 4L1 7" fill="none" stroke="#5A9185" stroke-width="1.5"/></marker>
+  </defs>
+  <rect x="1" y="1" width="1198" height="234" rx="16" fill="#F6F8F5" stroke="#D6E3DB" stroke-width="2"/>
+  <path d="M24 52H1176" stroke="#D7E4DC" stroke-width="1"/>
+  <text x="32" y="34" fill="#294B52" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">THE FIGURE WORKFLOW</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(32 75)">
+      <rect width="248" height="127" rx="10" fill="#FFFFFF" stroke="#CCDCD2"/>
+      <rect width="5" height="127" rx="2.5" fill="#799DA9"/>
+      <text x="19" y="30" fill="#7295A0" font-size="12" font-weight="700">01 / SOURCE</text>
+      <text x="19" y="59" fill="#253D47" font-size="19" font-weight="700">Understand evidence</text>
+      <path d="M19 80H101M19 90H88M19 100H110" stroke="#A8BDC1" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="205" cy="89" r="18" fill="#E7EFF1"/>
+      <path d="M196 89H214M205 80V98" stroke="#71929D" stroke-width="2"/>
+    </g>
+    <path d="M286 139H321" stroke="#5A9185" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(333 75)">
+      <rect width="248" height="127" rx="10" fill="#FFFFFF" stroke="#CCDCD2"/>
+      <rect width="5" height="127" rx="2.5" fill="#5C9A87"/>
+      <text x="19" y="30" fill="#55907F" font-size="12" font-weight="700">02 / COMPOSE</text>
+      <text x="19" y="59" fill="#253D47" font-size="19" font-weight="700">Build native shapes</text>
+      <rect x="20" y="79" width="32" height="23" rx="3" fill="#DDEFE5" stroke="#85B3A0"/>
+      <rect x="91" y="79" width="32" height="23" rx="3" fill="#E6EDF2" stroke="#9EB6C3"/>
+      <path d="M54 90H86" stroke="#5C9A87" stroke-width="2" marker-end="url(#arrow)"/>
+      <circle cx="205" cy="89" r="18" fill="#E5F0E8"/>
+      <path d="M197 96L213 80M197 80L213 96" stroke="#67A08D" stroke-width="2"/>
+    </g>
+    <path d="M587 139H622" stroke="#5A9185" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(634 75)">
+      <rect width="248" height="127" rx="10" fill="#FFFFFF" stroke="#CCDCD2"/>
+      <rect width="5" height="127" rx="2.5" fill="#B5A06B"/>
+      <text x="19" y="30" fill="#A18B57" font-size="12" font-weight="700">03 / EXPORT</text>
+      <text x="19" y="59" fill="#253D47" font-size="19" font-weight="700">Render and measure</text>
+      <rect x="20" y="79" width="78" height="23" rx="4" fill="#F4EEDC"/>
+      <text x="33" y="95" fill="#776944" font-size="12" font-weight="700">PNG · PDF</text>
+      <circle cx="205" cy="89" r="18" fill="#F3EDD9"/>
+      <path d="M205 79V96M199 90L205 96L211 90" fill="none" stroke="#AA925A" stroke-width="2"/>
+    </g>
+    <path d="M888 139H923" stroke="#5A9185" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(935 75)">
+      <rect width="232" height="127" rx="10" fill="#FFFFFF" stroke="#CCDCD2"/>
+      <rect width="5" height="127" rx="2.5" fill="#8C789C"/>
+      <text x="19" y="30" fill="#8C789C" font-size="12" font-weight="700">04 / REVIEW</text>
+      <text x="19" y="59" fill="#253D47" font-size="19" font-weight="700">Inspect and refine</text>
+      <path d="M20 89L27 96L40 80" fill="none" stroke="#729987" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="49" y="94" fill="#6A7E77" font-size="12">Ready at target size</text>
+    </g>
+  </g>
+</svg>

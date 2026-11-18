@@ -1,0 +1,50 @@
+{
+  "name": "circuit-academic",
+  "status": "Starting preset; user instructions and physical legibility take precedence.",
+  "default_label_language": "English",
+  "background": "#FFFFFF",
+  "font": {
+    "family": "Times New Roman",
+    "fallback": "Liberation Serif",
+    "weight": "bold",
+    "heading_model_units": 19,
+    "body_model_units": 16,
+    "caption_model_units": 14.5,
+    "initial_body_target_pt": [
+      7,
+      9
+    ]
+  },
+  "reference_model_width": 520,
+  "initial_publication_width_mm": 88,
+  "colors": {
+    "ink": "#282B30",
+    "compute": "#D5E4EE",
+    "state": "#DCEBE3",
+    "queue": "#F0E3C7",
+    "storage": "#E7E1EE",
+    "provisional": "#327F75",
+    "reassessment": "#A2574C"
+  },
+  "strokes": {
+    "main_frame": 2.2,
+    "divider": 0.8,
+    "workflow": 1.2,
+    "detail": 0.65
+  },
+  "spacing": {
+    "main_frame_gap": [
+      6,
+      10
+    ],
+    "workflow_segment_min": 12,
+    "main_frame_text_padding_min": 2.5,
+    "tiny_component_text_padding_min": 1
+  },
+  "arrowhead_size": 4,
+  "notes": [
+    "Main-flow segment length is not equivalent to unobstructed visible shaft length.",
+    "Wire detail is excluded from workflow lead checks.",
+    "Do not insert concepts merely because a color or motif exists in this preset."
+  ]
+}

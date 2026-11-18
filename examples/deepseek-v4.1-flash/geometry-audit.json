@@ -1,0 +1,16 @@
+{
+  "source": "overview.drawio",
+  "source_sha256": "14ce3078f7d8e3b84d3fc477825b5c11b0a924e4fe0885ea1f072d562fb687f3",
+  "pages": [
+    {
+      "name": "DeepSeek V4.1 Flash overview",
+      "cells": 139,
+      "labels": 49,
+      "workflow_routes_checked": 6,
+      "skipped": []
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "scope": "Structural only; rendered text, perimeter routes, junctions, and scientific semantics need separate review."
+}

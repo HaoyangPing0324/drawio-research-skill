@@ -1,0 +1,11 @@
+{
+  "labels": 49,
+  "images": 0,
+  "rectanglesChecked": 60,
+  "textOverlaps": [],
+  "iconOverlaps": [],
+  "ruleContacts": [],
+  "imageFailures": [],
+  "skipped": [],
+  "scope": "Browser text bounds and axis-aligned rect borders only. Paths, padding, arrow visibility, semantics, and physical readability require visual review."
+}

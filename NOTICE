@@ -1,0 +1,11 @@
+Draw.io Research Skill
+Copyright 2026 Draw.io Research Skill contributors
+
+This project provides agent instructions and optional tools for editable
+research diagrams in Draw.io / diagrams.net.
+
+The workflow was informed by JGraph's drawio-mcp Draw.io skill and
+BRBussy's draw-io-cli diagram skill. See ACKNOWLEDGMENTS.md for provenance
+and the distinction between inspiration and redistributed material.
+
+This notice is informational and does not modify the Apache License 2.0.

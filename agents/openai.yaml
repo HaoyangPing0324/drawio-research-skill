@@ -1,0 +1,6 @@
+interface:
+  display_name: "Draw.io Research Figures"
+  short_description: "Compact, editable research figures with visual review"
+  default_prompt: "Use $drawio-research-skill to create an editable, source-grounded research figure, match the supplied paper style, and inspect the exported result."
+policy:
+  allow_implicit_invocation: true

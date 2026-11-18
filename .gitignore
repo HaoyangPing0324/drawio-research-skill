@@ -1,0 +1,12 @@
+# Local dependencies and caches
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Task-specific inputs, drafts, and inspection artifacts
+work/
+
+# Browser test output
+playwright-report/
+test-results/
